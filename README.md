@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Python+Developer;Machine+Learning+%7C+Automation+%7C+AI;Let%27s+Solve+Real-World+Problems+With+Data" alt="Typing SVG" />
+</p>
+
 Data Science & Python Developer | ML | DL | Automation | Data Analytics
 
 I’m a passionate and detail-oriented tech professional focused on Data Science, Python Development, and Machine Learning. With hands-on experience in analyzing data, building models, and automating workflows using Python, I help businesses and individuals solve real-world problems efficiently.
@@ -42,9 +46,7 @@ I’m a passionate and detail-oriented tech professional focused on Data Science
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ateeqkhan9891&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ateeqkhan9891&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Python+Developer;Machine+Learning+%7C+Automation+%7C+AI;Let%27s+Solve+Real-World+Problems+With+Data" alt="Typing SVG" />
