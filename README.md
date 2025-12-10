@@ -8,13 +8,29 @@ Data Science & Python Developer | ML | DL | Automation | Data Analytics
 
 I’m a passionate and detail-oriented tech professional focused on Data Science, Python Development, and Machine Learning. With hands-on experience in analyzing data, building models, and automating workflows using Python, I help businesses and individuals solve real-world problems efficiently.
 
-🔧 My Skills Include:
+<h1>Data & AI:</h1>
 
-.Data Analysis | Data Visualization | Pandas | NumPy
-.Machine Learning | Deep Learning | Scikit-Learn | TensorFlow
-.Python Scripting | Automation | Web Scraping | ETL Pipelines
-.AI Model Deployment | Streamlit | Flask | FastAPI
-.Tools: Jupyter Notebook, Google Colab, Excel, Power B
+Data Analysis | Data Visualization | Pandas | NumPy
+
+Machine Learning | Deep Learning | Scikit-Learn | TensorFlow
+
+AI Model Deployment | Streamlit | Flask | FastAPI
+
+Backend Development & Automation:
+
+Python Scripting | Web Scraping | ETL Pipelines
+
+Backend Development with Python (Flask, FastAPI)
+
+REST API Design & Integration
+
+DevOps & Tools:
+
+Linux / Ubuntu | Bash Scripting | CI/CD Pipelines | Docker Basics
+
+Version Control: Git / GitHub
+
+Tools: Jupyter Notebook, Google Colab, Excel, Power B
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
