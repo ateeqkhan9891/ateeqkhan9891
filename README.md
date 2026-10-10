@@ -1,4 +1,4 @@
-# Hey, I'm Ateeq 👋
+# Hey, I'm Ateek 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Python+%7C+TypeScript+%7C+Next.js;Building+Production-Ready+Applications;Exploring+LLMs%2C+RAG+%26+AI+Systems" alt="Typing SVG" />
