@@ -52,23 +52,6 @@ My current focus is developing strong foundations in full-stack engineering, bac
 - Cloud deployment and CI/CD concepts
 
 
-
-
-##  My Engineering 
-
-I'm building toward AI engineering through a structured progression:
-
-- Full-stack development and backend engineering
-- Databases, APIs, and system design
-- Linux, Docker, networking, and cloud infrastructure
-- CI/CD and production deployment
-- Machine learning and deep learning
-- Large language models and RAG
-- AI agents and AI application engineering
-- Production AI systems, evaluation, and observability
-
-My goal is to understand not just how to build AI features, but how to integrate, deploy, maintain, and scale reliable AI-powered applications.
-
 ## 📊 GitHub Overview
 
 <p align="center">
