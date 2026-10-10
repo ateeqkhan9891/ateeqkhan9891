@@ -12,13 +12,6 @@ I'm a **Data Science undergraduate at IMSciences, Peshawar**, focused on softwar
 
 My current focus is developing strong foundations in full-stack engineering, backend architecture, infrastructure, and modern AI systems — with an emphasis on writing maintainable code and building applications that can move beyond prototypes into production.
 
-## 🚀 What I'm Working On
-
-- Building **MiamiResumeWorks**, a resume and career platform using Next.js, TypeScript, Tailwind CSS, and Supabase.
-- Developing **WakeelHub / Wakeel360**, a legal services platform built with Next.js and Supabase.
-- Strengthening backend engineering with Python, FastAPI, REST APIs, PostgreSQL, and database design.
-- Learning infrastructure fundamentals, including Linux, Docker, Nginx, cloud deployment, and CI/CD.
-- Exploring AI engineering concepts, including LLM integrations, RAG, AI agents, and production AI applications.
 
 ## 🛠️ Tech Stack
 
