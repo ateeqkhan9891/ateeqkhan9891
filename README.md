@@ -1,86 +1,114 @@
-## Hi there 👋
+# Hey, I'm Ateeq 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Python+Developer;Machine+Learning+%7C+Automation+%7C+AI;Let%27s+Solve+Real-World+Problems+With+Data" alt="Typing SVG" />
-</p>
-
-Data Science & Python Developer | ML | DL | Automation | Data Analytics
-
-I’m a passionate and detail-oriented tech professional focused on Data Science, Python Development, and Machine Learning. With hands-on experience in analyzing data, building models, and automating workflows using Python, I help businesses and individuals solve real-world problems efficiently.
-
-<h1>Data & AI:</h1>
-
-Data Analysis | Data Visualization | Pandas | NumPy
-
-Machine Learning | Deep Learning | Scikit-Learn | TensorFlow
-
-AI Model Deployment | Streamlit | Flask | FastAPI
-
-Backend Development & Automation:
-
-Python Scripting | Web Scraping | ETL Pipelines
-
-Backend Development with Python (Flask, FastAPI)
-
-REST API Design & Integration
-
-DevOps & Tools:
-
-Linux / Ubuntu | Bash Scripting | CI/CD Pipelines | Docker Basics
-
-Version Control: Git / GitHub
-
-Tools: Jupyter Notebook, Google Colab, Excel, Power B
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-</p>
-
-
-🌟 Why work with me?
-
-.Fast learner with a strong problem-solving mindset
-.Clean, reliable, and efficient code
-.Timely delivery & clear communication
-.Dedicated to learning and growing in the AI space
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ateeqkhan9891&show_icons=true&theme=tokyonight" alt="Ateeq's GitHub stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Python+%7C+TypeScript+%7C+Next.js;Building+Production-Ready+Applications;Exploring+LLMs%2C+RAG+%26+AI+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ateeqkhan9891&theme=tokyonight" alt="GitHub Streak" />
+  <b>AI Engineering | Full-Stack Development | Backend Systems | Cloud & DevOps</b>
 </p>
 
+I'm a **Data Science undergraduate at IMSciences, Peshawar**, focused on software engineering and AI engineering. I enjoy building practical applications, designing backend systems, integrating APIs, and exploring how AI can solve real-world problems.
 
+My current focus is developing strong foundations in full-stack engineering, backend architecture, infrastructure, and modern AI systems — with an emphasis on writing maintainable code and building applications that can move beyond prototypes into production.
+
+## 🚀 What I'm Working On
+
+- Building **MiamiResumeWorks**, a resume and career platform using Next.js, TypeScript, Tailwind CSS, and Supabase.
+- Developing **WakeelHub / Wakeel360**, a legal services platform built with Next.js and Supabase.
+- Strengthening backend engineering with Python, FastAPI, REST APIs, PostgreSQL, and database design.
+- Learning infrastructure fundamentals, including Linux, Docker, Nginx, cloud deployment, and CI/CD.
+- Exploring AI engineering concepts, including LLM integrations, RAG, AI agents, and production AI applications.
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,sql" alt="Python, TypeScript, JavaScript, and SQL" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" alt="Next.js, React, Tailwind CSS, HTML, and CSS" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,supabase,prisma" alt="FastAPI, Node.js, Express, PostgreSQL, Supabase, and Prisma" />
+</p>
+
+### AI, Data & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" alt="Python, TensorFlow, and Scikit-learn" />
+</p>
+
+- Data processing and analysis with Python
+- NumPy, Pandas, and Jupyter Notebook
+- REST API integrations with AI services
+- Learning LLM application development, RAG, and AI agents
+
+### Infrastructure & Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,bash,vercel" alt="Linux, Docker, Nginx, Git, GitHub, Bash, and Vercel" />
+</p>
+
+- Linux and Ubuntu
+- Docker and containerization
+- Redis fundamentals, caching, and persistence
+- Git and GitHub
+- Cloud deployment and CI/CD concepts
+
+
+
+
+##  My Engineering 
+
+I'm building toward AI engineering through a structured progression:
+
+- Full-stack development and backend engineering
+- Databases, APIs, and system design
+- Linux, Docker, networking, and cloud infrastructure
+- CI/CD and production deployment
+- Machine learning and deep learning
+- Large language models and RAG
+- AI agents and AI application engineering
+- Production AI systems, evaluation, and observability
+
+My goal is to understand not just how to build AI features, but how to integrate, deploy, maintain, and scale reliable AI-powered applications.
+
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Python+Developer;Machine+Learning+%7C+Automation+%7C+AI;Let%27s+Solve+Real-World+Problems+With+Data" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ateeqkhan9891&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 </p>
-
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ateeqkhan9891&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ateeqkhan9891&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
-
-
----
-
-### 📫 Connect with me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ateeqkhan9891&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
 </p>
 
+##  How I Approach Engineering
+
+- **Problem-solving:** Break complex problems into manageable components.
+- **Maintainability:** Prefer readable code and clear project structure.
+- **Continuous learning:** Strengthen fundamentals through practical implementation.
+- **System thinking:** Understand how frontend, backend, databases, and infrastructure work together.
+- **Practical impact:** Build projects that address real user and business needs.
+
+##  Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ateeqkhan9891">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Learning continuously. Building consistently. Engineering for real-world impact.</i>
+</p>
